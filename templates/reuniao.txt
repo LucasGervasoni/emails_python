@@ -1,0 +1,13 @@
+Prezado(a) [Nome do Gerente],
+
+Espero que esteja bem.
+Gostaria de solicitar uma breve reunião para alinharmos alguns pontos relacionados ao andamento do projeto [nome do projeto/equipe].
+Acredito que uma conversa rápida nos ajudará a definir prioridades e organizar melhor as próximas etapas.
+
+Poderia, por favor, indicar um horário que seja conveniente para você nos próximos dias?
+
+Agradeço desde já pela atenção.
+
+Atenciosamente,
+[Seu Nome]
+[Seu Cargo]

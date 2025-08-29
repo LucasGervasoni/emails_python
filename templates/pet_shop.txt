@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Promoção Especial - PetShop Amigo</title>
+</head>
+<body style="font-family: Arial, sans-serif; margin:0; padding:0; background-color:#f8f9fa;">
+
+  <table width="100%" border="0" cellspacing="0" cellpadding="0" style="max-width:600px; margin:auto; background-color:#ffffff; border-radius:8px; overflow:hidden; box-shadow:0 2px 6px rgba(0,0,0,0.1);">
+    
+    <!-- Cabeçalho -->
+    <tr>
+      <td align="center" bgcolor="#ff914d" style="padding:20px;">
+        <h1 style="color:#fff; margin:0;">PetShop Amigo</h1>
+      </td>
+    </tr>
+
+    <!-- Imagem destaque -->
+    <tr>
+      <td align="center">
+        <img src="https://images.unsplash.com/photo-1558788353-f76d92427f16" alt="Promoção PetShop" style="width:100%; max-width:600px; display:block;">
+      </td>
+    </tr>
+
+    <!-- Conteúdo -->
+    <tr>
+      <td style="padding:20px; color:#333;">
+        <h2 style="margin-top:0;">Especial de Fim de Semana </h2>
+        <p style="font-size:16px; line-height:1.5;">
+          Aproveite <strong>até 30% OFF</strong> em rações, brinquedos e acessórios para seu pet.  
+          Cuide de quem está sempre ao seu lado com muito carinho e qualidade.
+        </p>
+        <p style="font-size:16px; line-height:1.5;">
+          Promoção válida até <strong>domingo, às 23h59</strong>. Não perca!
+        </p>
+      </td>
+    </tr>
+
+    <!-- Botão -->
+    <tr>
+      <td align="center" style="padding:20px;">
+        <a href="https://sualoja.com/promo" target="_blank" 
+           style="background-color:#ff914d; color:#fff; padding:15px 25px; text-decoration:none; border-radius:6px; font-size:18px;">
+          Comprar Agora 
+        </a>
+      </td>
+    </tr>
+
+    <!-- Rodapé -->
+    <tr>
+      <td bgcolor="#f1f1f1" style="padding:15px; text-align:center; font-size:12px; color:#555;">
+        Você recebeu este e-mail porque se cadastrou em nossa loja PetShop Amigo.  
+        <br>
+        <a href="#" style="color:#ff914d; text-decoration:none;">Descadastrar</a>
+      </td>
+    </tr>
+
+  </table>
+
+</body>
+</html>
